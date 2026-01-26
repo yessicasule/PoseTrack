@@ -1,0 +1,21 @@
+{
+  "session_name": "test_session",
+  "start_time": "2026-01-26T17:12:12.834718",
+  "duration_seconds": 1.014613389968872,
+  "total_frames": 10,
+  "average_fps": 10.0,
+  "tracked_landmarks": [
+    "nose",
+    "left_shoulder",
+    "right_shoulder",
+    "left_elbow",
+    "right_elbow",
+    "left_wrist",
+    "right_wrist"
+  ],
+  "mediapipe_settings": {
+    "min_detection_confidence": 0.5,
+    "min_tracking_confidence": 0.5,
+    "model_complexity": 1
+  }
+}

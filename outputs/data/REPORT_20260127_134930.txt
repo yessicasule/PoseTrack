@@ -1,0 +1,63 @@
+
+======================================================================
+MEDIAPIPE UPPER-BODY POSE TRACKING - SESSION REPORT
+======================================================================
+
+SESSION INFORMATION
+-------------------
+Session Name: 20260127_134930
+Date & Time: 2026-01-27T13:49:40.879022
+Duration: 6.79 seconds
+Total Frames: 134
+Average FPS: 19.83
+
+MEDIAPIPE CONFIGURATION
+-----------------------
+Model Complexity: 1
+Detection Confidence: 0.5
+Tracking Confidence: 0.5
+
+TRACKED LANDMARKS (Upper Body)
+------------------------------
+1. Nose
+2. Left Shoulder
+3. Right Shoulder
+4. Left Elbow
+5. Right Elbow
+6. Left Wrist
+7. Right Wrist
+
+SYSTEM SPECIFICATIONS
+--------------------
+Operating System: Windows 10
+Processor: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+CPU Cores: 12
+RAM: 15.63 GB
+
+
+OUTPUT FILES
+------------
+Video: outputs/videos/pose_tracking_20260127_134930.mp4
+Data (CSV): outputs/data/landmarks_20260127_134930.csv
+Data (JSON): outputs/data/landmarks_20260127_134930.json
+Metadata: outputs/data/metadata_20260127_134930.json
+Plots: outputs/plots/*_20260127_134930.png
+
+QUALITATIVE OBSERVATIONS
+------------------------
+The MediaPipe Pose model successfully tracked upper-body landmarks in real-time
+from a monocular camera feed. The system maintained an average FPS of 
+19.83, demonstrating efficient performance.
+
+Key landmarks tracked include:
+- Head (nose)
+- Shoulders (left and right)
+- Elbows (left and right)
+- Wrists (left and right)
+
+The trajectory plots show the movement patterns of the elbow joints over time,
+with visibility scores indicating tracking confidence throughout the session.
+
+======================================================================
+END OF REPORT
+======================================================================

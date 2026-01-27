@@ -1,0 +1,27 @@
+{
+  "session_name": "20260127_134857",
+  "start_time": "2026-01-27T13:49:13.818663",
+  "duration_seconds": 8.923304319381714,
+  "total_frames": 165,
+  "average_fps": 18.634256792309696,
+  "tracked_landmarks": [
+    "nose",
+    "left_shoulder",
+    "right_shoulder",
+    "left_elbow",
+    "right_elbow",
+    "left_wrist",
+    "right_wrist"
+  ],
+  "mediapipe_settings": {
+    "min_detection_confidence": 0.5,
+    "min_tracking_confidence": 0.5,
+    "model_complexity": 1
+  },
+  "system_info": {
+    "os": "Windows 10",
+    "processor": "Intel64 Family 6 Model 154 Stepping 4, GenuineIntel",
+    "cpu_cores": 12,
+    "ram_gb": 15.63
+  }
+}

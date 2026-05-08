@@ -1,0 +1,14 @@
+{
+  "session_name": "20260408_135741",
+  "collection_time": "2026-04-08T13:57:49.834265",
+  "duration_seconds": 2.5872134000001097,
+  "frame_count": 26,
+  "avg_fps": 10.049422285768502,
+  "camera_id": 0,
+  "resolution": {
+    "width": 640,
+    "height": 480
+  },
+  "mocap_enabled": false,
+  "video_path": "D:\\IITB\\PoseTrack\\PoseTrack\\outputs\\collection\\20260408_135741\\video\\20260408_135741.mp4"
+}

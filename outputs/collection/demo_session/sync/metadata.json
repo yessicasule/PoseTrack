@@ -1,0 +1,14 @@
+{
+  "session_name": "demo_session",
+  "collection_time": "2026-04-08T11:46:33.966812",
+  "duration_seconds": 5.432719199976418,
+  "frame_count": 129,
+  "avg_fps": 23.745015203539317,
+  "camera_id": 0,
+  "resolution": {
+    "width": 640,
+    "height": 480
+  },
+  "mocap_enabled": false,
+  "video_path": "D:\\IITB\\PoseTrack\\PoseTrack\\outputs\\collection\\demo_session\\video\\demo_session.mp4"
+}
